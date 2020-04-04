@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Shamel</string>
+    <string name="notifications">Notifications</string>
+    <string name="sign_in">Sign In</string>
+    <string name="please_sign_in_or_sign_up">Please Sign In or Sign Up</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_order_found">No Order Found</string>
+    <string name="no_notification_found">No Notification Found</string>
+    <string name="no_services">No Services</string>
+    <string name="terms_and_conditions">Terms And Conditions</string>
+    <string name="privacy">Privacy</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="add_ad">Add Ad</string>
+    <string name="logout">Logout</string>
+
 </resources>
