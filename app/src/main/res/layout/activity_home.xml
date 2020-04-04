@@ -7,10 +7,7 @@
 
 
     </data>
-    <androidx.coordinatorlayout.widget.CoordinatorLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
+
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
@@ -98,19 +95,5 @@
 
 
         </androidx.constraintlayout.widget.ConstraintLayout>
-        <include layout="@layout/filter_content"/>
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/fab"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:backgroundTint="@color/secondColor"
-            android:src="@drawable/ic_add"
-            android:tint="@color/white"
-            app:layout_anchor="@id/ah_bottom_nav"
-            app:layout_anchorGravity="center_horizontal"
-            app:elevation="3dp"
-            app:borderWidth="2dp"
 
-            />
-    </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </layout>
