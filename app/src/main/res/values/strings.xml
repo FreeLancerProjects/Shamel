@@ -13,5 +13,9 @@
     <string name="contact_us">Contact Us</string>
     <string name="add_ad">Add Ad</string>
     <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourit</string>
+    <string name="profile">Profile</string>
+    <string name="more">More</string>
 
 </resources>
